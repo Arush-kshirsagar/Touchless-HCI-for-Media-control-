@@ -1,2 +1,2 @@
-# Touchless-HCL-for-Media-control-
+# Touchless-HCI-for-Media-control-
 Implemented on the NVIDIA Jetson Nano
